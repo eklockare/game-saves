@@ -366,7 +366,7 @@ Examples:
     $0 link ~/.var/app/com.heroicgameslauncher.hgl/.../remedy-alan-wake-2 alan-wake-2
     
     # Link Baldur's Gate 3 saves
-    $0 link ~/.local/share/Steam/steamapps/compatdata/1086940/pfx/drive_c/users/steamuser/AppData/Local/Larian\\ Studios/Baldur\\'s\\ Gate\\ 3 baldurs-gate-3
+    $0 link "/path/to/steamapps/compatdata/1086940/pfx/drive_c/users/steamuser/AppData/Local/Larian Studios/Baldur's Gate 3" baldurs-gate-3
     
     # Commit changes
     $0 commit

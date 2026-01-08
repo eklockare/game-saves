@@ -151,3 +151,11 @@
 
 [1;33mGOG Galaxy (via Wine/Heroic):[0m
 [1;33mCommitting changes to git...[0m
+[main d71beba] Game saves update: 2025-12-28 02:06:01
+ 5 files changed, 1229 insertions(+)
+ create mode 100644 GAME-SAVES-GUIDE.md
+ create mode 100644 discover-results-new.md
+ create mode 100644 discover-results-new2.md
+ create mode 100644 discover-results.md
+ create mode 100755 manage-game-saves.sh
+[0;32m✓ Changes committed[0m
