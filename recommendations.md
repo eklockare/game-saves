@@ -1,28 +1,28 @@
 # Top 100 Game Recommendations
-*Based on: Alan Wake, Firewatch, S.T.A.L.K.E.R., Half-Life, BG3, Resident Evil, Hades, Bioshock, F.E.A.R., XCOM, Dead Space, Wolfenstein, Oxenfree*
+*Based on: Black Mesa, Alan Wake, Firewatch, S.T.A.L.K.E.R., Half-Life, BG3, Resident Evil, Hades, Bioshock, F.E.A.R., XCOM, Dead Space, Wolfenstein, Oxenfree*
 
 ## The "Must Play" Tier (Perfect Matches)
 
-1.  **Pacific Drive** `[OWNED]` - **Very Positive (83%)** - *Firewatch* meets *S.T.A.L.K.E.R.* in a station wagon. Surreal nature sci-fi.
-2.  **Prey (2017)** `[STORE]` - **Very Positive (90%)** - *Must Play for Bioshock fans*. Spiritual successor. More grounded and choice-driven than Control.
-3.  **S.T.A.L.K.E.R. 2: Heart of Chornobyl** `[WISHLIST]` - **Mostly Positive (78%)** - The modern evolution of your favorite atmosphere.
-4.  **Silent Hill 2 (Remake)** `[WISHLIST]` - **Overwhelmingly Positive (95%)** - The king of psychological horror. If you liked Alan Wake/RE, this is the blueprint.
-5.  **Metro Exodus** `[OWNED]` - **Very Positive (89%)** - The most atmospheric "journey" shooter. Similar to Stalker but more narrative-focused.
-6.  **Outer Wilds** `[WISHLIST]` - **Overwhelmingly Positive (95%)** - The ultimate mystery game. Grounded sci-fi exploration of a solar system.
-7.  **Cyberpunk 2077: Phantom Liberty** `[WISHLIST]` - **Very Positive (89%)** - High-budget grounded sci-fi. The expansion has a spy-thriller mystery vibe.
-8.  **SOMA** `[STORE]` - **Overwhelmingly Positive (96%)** - Underwater sci-fi horror. **PLAY ON SAFE MODE** to remove monster aggro.
-9.  **Dead Space (Remake)** `[STORE]` - **Very Positive (92%)** - Action-horror perfection. If you like RE2 Remake, this is 10/10.
-10. **XCOM 2** `[OWNED]` - **Very Positive (90%)** - You own this. Since you beat XCOM 1 on Ironman Legendary, this is your next ultimate challenge.
-11. **Disco Elysium - The Final Cut** `[OWNED]` - **Very Positive (93%)** - If you like BG3's writing, this is the best written game ever made.
-12. **Returnal** `[OWNED]` - **Very Positive (81%)** - *Hades* (roguelite) + *Prometheus* (dark sci-fi mystery). Fast and atmospheric.
-13. **System Shock (Remake)** `[WISHLIST]` - **Very Positive (88%)** - The grandfather of Bioshock. Pure retro-sci-fi atmosphere.
-14. **Black Mesa** `[OWNED]` - **Overwhelmingly Positive (95%)** - The definitive way to replay Half-Life 1.
-15. **DREDGE** `[OWNED]` - **Overwhelmingly Positive (95%)** - Lovecraftian fishing. Relaxing yet terrifying.
-16. **Divinity: Original Sin 2** `[OWNED]` - **Overwhelmingly Positive (95%)** - Larian's game before BG3. Essential.
-17. **The Long Dark** `[OWNED]` - **Very Positive (91%)** - Pure survival nature atmosphere. No monsters, just the cold.
-18. **What Remains of Edith Finch** `[WISHLIST]` - **Overwhelmingly Positive (95%)** - Short, magical realism mystery. A narrative masterpiece.
-19. **Someday You'll Return: Director's Cut** `[OWNED]` - **Very Positive (84%)** - Psychological horror in the Moravian woods. Very "Firewatch gone wrong".
-20. **Trepang2** `[WISHLIST]` - **Very Positive (94%)** - F.E.A.R. spiritual successor. Spooky action.
+1.  **Black Mesa** `[OWNED]` - **Overwhelmingly Positive (95%)** - [TOP FAVORITE OF ALL TIME] - Reached Xen/Gonarch. The definitive Half-Life experience.
+2.  **Pacific Drive** `[OWNED]` - **Very Positive (83%)** - *Firewatch* meets *S.T.A.L.K.E.R.* in a station wagon. Surreal nature sci-fi.
+3.  **Prey (2017)** `[STORE]` - **Very Positive (90%)** - *Must Play for Bioshock fans*. Spiritual successor. More grounded and choice-driven than Control.
+4.  **S.T.A.L.K.E.R. 2: Heart of Chornobyl** `[WISHLIST]` - **Mostly Positive (78%)** - The modern evolution of your favorite atmosphere.
+5.  **Silent Hill 2 (Remake)** `[WISHLIST]` - **Overwhelmingly Positive (95%)** - The king of psychological horror. If you liked Alan Wake/RE, this is the blueprint.
+6.  **Metro Exodus** `[OWNED]` - **Very Positive (89%)** - The most atmospheric "journey" shooter. Similar to Stalker but more narrative-focused.
+7.  **Outer Wilds** `[WISHLIST]` - **Overwhelmingly Positive (95%)** - The ultimate mystery game. Grounded sci-fi exploration of a solar system.
+8.  **Cyberpunk 2077: Phantom Liberty** `[WISHLIST]` - **Very Positive (89%)** - High-budget grounded sci-fi. The expansion has a spy-thriller mystery vibe.
+9.  **SOMA** `[STORE]` - **Overwhelmingly Positive (96%)** - Underwater sci-fi horror. **PLAY ON SAFE MODE** to remove monster aggro.
+10. **Dead Space (Remake)** `[STORE]` - **Very Positive (92%)** - Action-horror perfection. If you like RE2 Remake, this is 10/10.
+11. **XCOM 2** `[OWNED]` - **Very Positive (90%)** - You own this. Since you beat XCOM 1 on Ironman Legendary, this is your next ultimate challenge.
+12. **Disco Elysium - The Final Cut** `[OWNED]` - **Very Positive (93%)** - If you like BG3's writing, this is the best written game ever made.
+13. **Returnal** `[OWNED]` - **Very Positive (81%)** - *Hades* (roguelite) + *Prometheus* (dark sci-fi mystery). Fast and atmospheric.
+14. **System Shock (Remake)** `[WISHLIST]` - **Very Positive (88%)** - The grandfather of Bioshock. Pure retro-sci-fi atmosphere.
+15. **Black Mesa** `[OWNED]` - **Overwhelmingly Positive (95%)** - The definitive way to replay Half-Life 1.
+16. **DREDGE** `[OWNED]` - **Overwhelmingly Positive (95%)** - Lovecraftian fishing. Relaxing yet terrifying.
+17. **Divinity: Original Sin 2** `[OWNED]` - **Overwhelmingly Positive (95%)** - Larian's game before BG3. Essential.
+18. **The Long Dark** `[OWNED]` - **Very Positive (91%)** - Pure survival nature atmosphere. No monsters, just the cold.
+19. **What Remains of Edith Finch** `[WISHLIST]` - **Overwhelmingly Positive (95%)** - Short, magical realism mystery. A narrative masterpiece.
+20. **Someday You'll Return: Director's Cut** `[OWNED]` - **Very Positive (84%)** - Psychological horror in the Moravian woods. Very "Firewatch gone wrong".
 
 ## High Priority: Hidden Gems in Library
 
@@ -64,8 +64,8 @@
 53. **Shadow Tactics: Blades of the Shogun** `[OWNED]` - **Very Positive (94%)** - Hardcore tactical stealth, similar difficulty appeal to XCOM.
 54. **Singularity** `[STORE]` - **Very Positive (91%)** - Forgotten FPS gem. Soviet sci-fi.
 55. **Titanfall 2** `[STORE]` - **Overwhelmingly Positive (95%)** - Best FPS campaign of the last decade.
-56. **Half-Life: Alyx** `[OWNED]` - **Overwhelmingly Positive (98%)** - If you have VR, this is #1.
-57. **Slay the Princess** `[OWNED]` - **Overwhelmingly Positive (97%)** - A psychological mystery about choices and narrative agency. Much more engaging for Oxenfree fans than Brothers.
+56. **Entropy : Zero 2** `[FREE]` - **Overwhelmingly Positive (98%)** - Play as a Combine soldier in this top-tier Half-Life 2 expansion. Non-VR.
+57. **Slay the Princess** `[OWNED]` - **Overwhelmingly Positive (97%)** - A psychological mystery about choices and narrative agency. 
 58. **Metro 2033** `[OWNED]` - **Very Positive (89%)** - Where the journey began.
 59. **Killer Frequency** `[OWNED]` - **Very Positive (93%)** - 80s Slasher mystery Radio DJ sim.
 60. **The Council** `[OWNED]` - **Mostly Positive (79%)** - Narrative RPG mystery.
@@ -76,7 +76,7 @@
 ## RPGs & Strategy (Since you like BG3/Wartales)
 
 64. **Kingdom Come: Deliverance II** `[OWNED]` - **Very Positive (93%)** - [CURRENTLY PLAYING] - Authentic medieval sim.
-65. **Elden Ring** `[WISHLIST]` - **Very Positive (92%)** - Open world mastery.
+65. **Elden Ring** `[OWNED - FAMILY SHARE]` - **Very Positive (92%)** - [STUCK] - Open world mastery. Try a different build or a guide if the stuck point is mechanical.
 66. **Wartales** `[OWNED]` - **Very Positive (90%)** - Low-fantasy mercenary sim.
 67. **Chernobylite** `[OWNED]` - **Very Positive (83%)** - Stalker lite with base building.
 68. **Expeditions: Rome** `[OWNED]` - **Very Positive (87%)** - Historical tactical RPG.
